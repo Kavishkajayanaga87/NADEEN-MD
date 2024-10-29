@@ -19,7 +19,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['94711451319']
+const ownerNumber = ['94720879154']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -75,9 +75,9 @@ let up = `🚀 *_NADEEN-MD Connected Successfully!_* ✅
 
 *🔹 PREFIX:* ${prefix}
 
-*🔹 OWNER:* ${ownerNumber}
+*🔹 OWNER:* ${94720879154}
 
-*🔹 MADE BY:* Nadeen Poorna
+*🔹 MADE BY:* Kavishka Jayanaga
 
 _Thank you for using_ *🕺NADEEN-MD💗.*
 _We're here to make your experience enjoyable and seamless._
